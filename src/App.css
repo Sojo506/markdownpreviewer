@@ -45,3 +45,15 @@
   width: ;
 }
  */
+
+ footer {
+  position: absolute;
+  text-align: center;
+  left: 0;
+  right: 0;
+  bottom: 10px;
+ }
+ footer a{
+  text-decoration: none;
+  color: #000;
+ }

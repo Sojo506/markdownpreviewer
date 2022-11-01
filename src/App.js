@@ -72,6 +72,9 @@ class App extends React.Component {
             ></div>
           </div>
         </div>
+        <footer>
+          <a href="https://github.com/Sojo506/markdownpreviewer" target='_blank'>Coded by Fabián Sojo</a>
+        </footer>
       </div>
     );
   }
